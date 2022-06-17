@@ -18,6 +18,9 @@ This one is the readme at stating area.
 
 This readme is at working directory.
 
+##How to contribute
+Please fork this repository and then issue Pull Request for review.
+
 ###Copyright
 
 Edito de copyright
