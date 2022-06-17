@@ -17,3 +17,7 @@ This one is the readme at stating area.
 ##Edited
 
 This readme is at working directory.
+
+###Copyright
+
+Edito de copyright
