@@ -9,3 +9,11 @@ Sample website with plenty of files for demos
 ##Commited
 
 This one is the readme in the local repository.
+
+##Added
+
+This one is the readme at stating area.
+
+##Edited
+
+This readme is at working directory.
