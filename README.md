@@ -23,4 +23,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ###Copyright
 
-Edito de copyright
+Edito de copyright. All rights reserved.
