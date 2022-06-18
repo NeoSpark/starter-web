@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work. Adding this to rebasing 
 ## Purpose
 
 Sample website with plenty of files for demos
-
+Emergency fix after stash.
 ##Commited
 
 This one is the readme in the local repository.
