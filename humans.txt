@@ -7,7 +7,8 @@
 
 # THANKS
 
-    Thanks to me. Come on! You can do it
+    Thanks to me. Come on! You can do it.
+    Please some text Stash
 
 # TECHNOLOGY COLOPHON
 
